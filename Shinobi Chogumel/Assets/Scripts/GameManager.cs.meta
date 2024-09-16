@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: aeb0a3ec5df43154daad210b6ed695c6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MenuScreen: {fileID: 1136125788587940340, guid: 4d368ad2d3bafb2469f43e500deec04e, type: 3}
+  - Sphere: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
