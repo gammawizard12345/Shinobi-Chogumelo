@@ -6,7 +6,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 
-public class GameManager : MonoBehaviour
+public class Manager : MonoBehaviour
 {
 
     SceneManager sceneManager;
@@ -18,7 +18,7 @@ public class GameManager : MonoBehaviour
     public GameObject Sphere;
 
     // Start is called before the first frame update
-    void Start()
+    void StartMergeLater()
     {
         Scene Scene0 = SceneManager.GetSceneByName("MainMenu");
         MenuScreen.SetActive(false);
@@ -26,11 +26,7 @@ public class GameManager : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
+   
     private void Awake()
     {
         if (SceneManager.GetActiveScene().name == "Gameplay")

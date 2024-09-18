@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Bielc\\Shinobi Chogumel\\",
+  "WorkspaceRootPath": "C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4F65FCE-77A5-C951-9769-E5173AEB26CF}|Assembly-CSharp.csproj|c:\\users\\bielc\\shinobi chogumel\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4F65FCE-77A5-C951-9769-E5173AEB26CF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4F65FCE-77A5-C951-9769-E5173AEB26CF}|Assembly-CSharp.csproj|c:\\users\\bielc\\onedrive\\documents\\github\\shinobi-chogumelo\\shinobi chogumel\\assets\\scripts\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F65FCE-77A5-C951-9769-E5173AEB26CF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\Assets\\Scripts\\GameManager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameManager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\Bielc\\Shinobi Chogumel\\Assets\\Scripts\\GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\Bielc\\Shinobi Chogumel\\Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAowEgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T12:47:21.909Z",
+              "WhenOpened": "2024-09-16T12:47:21.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager2.cs",
+              "DocumentMoniker": "C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\Assets\\Scripts\\GameManager2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager2.cs",
+              "ToolTip": "C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\Assets\\Scripts\\GameManager2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:44:51.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\Assets\\Scripts\\Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager.cs",
+              "ToolTip": "C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\Assets\\Scripts\\Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:45:42.014Z",
               "EditorCaption": ""
             }
           ]
