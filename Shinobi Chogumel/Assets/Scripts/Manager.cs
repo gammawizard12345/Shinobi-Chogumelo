@@ -6,7 +6,18 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 
-public class Manager : MonoBehaviour
+public class Manager
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    : MonoBehaviour
 {
 
     SceneManager sceneManager;

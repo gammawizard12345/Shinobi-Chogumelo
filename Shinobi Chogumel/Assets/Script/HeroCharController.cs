@@ -10,6 +10,7 @@ public class HeroCharController : MonoBehaviour
 
     private float gravity = -50f;
     private CharacterController charController;
+    private TouchManager touchInput;
     private Vector3 velocity;
     private bool isGrounded;
     private float horizontalInput;
@@ -19,6 +20,7 @@ public class HeroCharController : MonoBehaviour
     void Start()
     {
         charController = GetComponent<CharacterController>();
+        touchInput = GetComponent<TouchManager>();
     }
 
    
@@ -29,7 +31,7 @@ public class HeroCharController : MonoBehaviour
         //Face forward
         transform.forward = new Vector3(horizontalInput, 0, Mathf.Abs(horizontalInput) - 1);
 
-        // Is Grounded => Verifica se o player está no chão
+        // Is Grounded => Verifica se o player estï¿½ no chï¿½o
         isGrounded = Physics.CheckSphere(transform.position, 0.1f, groundLayer, QueryTriggerInteraction.Ignore);
 
         if (isGrounded && velocity.y < 0)
@@ -43,7 +45,7 @@ public class HeroCharController : MonoBehaviour
         }
 
         charController.Move(new Vector3(horizontalInput * runSpeed, 0, 0) * Time.deltaTime);
-
+          //if (isGrounded && touchInput.checkSwiping())
         if (isGrounded && Input.GetButtonDown("Jump"))
         {
             velocity.y += Mathf.Sqrt(jumpHeight * -2 * gravity);

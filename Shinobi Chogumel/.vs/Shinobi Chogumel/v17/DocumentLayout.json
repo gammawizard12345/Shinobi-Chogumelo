@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4F65FCE-77A5-C951-9769-E5173AEB26CF}|Assembly-CSharp.csproj|c:\\users\\bielc\\onedrive\\documents\\github\\shinobi-chogumelo\\shinobi chogumel\\assets\\scripts\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4F65FCE-77A5-C951-9769-E5173AEB26CF}|Assembly-CSharp.csproj|c:\\users\\bielc\\onedrive\\documents\\github\\shinobi-chogumelo\\shinobi chogumel\\assets\\scripts\\touchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F65FCE-77A5-C951-9769-E5173AEB26CF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\touchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F65FCE-77A5-C951-9769-E5173AEB26CF}|Assembly-CSharp.csproj|c:\\users\\bielc\\onedrive\\documents\\github\\shinobi-chogumelo\\shinobi chogumel\\assets\\script\\herocharcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F65FCE-77A5-C951-9769-E5173AEB26CF}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\herocharcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F65FCE-77A5-C951-9769-E5173AEB26CF}|Assembly-CSharp.csproj|c:\\users\\bielc\\onedrive\\documents\\github\\shinobi-chogumelo\\shinobi chogumel\\assets\\scripts\\inputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F65FCE-77A5-C951-9769-E5173AEB26CF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F65FCE-77A5-C951-9769-E5173AEB26CF}|Assembly-CSharp.csproj|C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F65FCE-77A5-C951-9769-E5173AEB26CF}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F65FCE-77A5-C951-9769-E5173AEB26CF}|Assembly-CSharp.csproj|C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\assets\\scripts\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4F65FCE-77A5-C951-9769-E5173AEB26CF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -37,7 +53,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "GameManager2.cs",
               "DocumentMoniker": "C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\Assets\\Scripts\\GameManager2.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager2.cs",
@@ -48,15 +64,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\Assets\\Scripts\\Manager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Manager.cs",
               "ToolTip": "C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\Assets\\Scripts\\Manager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Manager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwBMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T02:45:42.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:10:30.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HeroCharController.cs",
+              "DocumentMoniker": "C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\Assets\\Script\\HeroCharController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HeroCharController.cs",
+              "ToolTip": "C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\Assets\\Script\\HeroCharController.cs",
+              "RelativeToolTip": "Assets\\Script\\HeroCharController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:25:17.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TouchManager.cs",
+              "DocumentMoniker": "C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\Assets\\Scripts\\TouchManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TouchManager.cs",
+              "ToolTip": "C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\Assets\\Scripts\\TouchManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TouchManager.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:24:38.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inputs.cs",
+              "DocumentMoniker": "C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\Assets\\Scripts\\Inputs.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inputs.cs",
+              "ToolTip": "C:\\Users\\Bielc\\OneDrive\\Documents\\GitHub\\Shinobi-Chogumelo\\Shinobi Chogumel\\Assets\\Scripts\\Inputs.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inputs.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAwwA0BAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:28:00.411Z",
               "EditorCaption": ""
             }
           ]
